@@ -1,5 +1,5 @@
 # carboncycle
-This repository contains open data, extracted from ICOS Carbon Portal(https://www.icos-cp.eu/data). The data is intended to be used by the schoolprog-satellite repository.
+This repository contains open data, extracted from [ICOS Carbon Portal](https://www.icos-cp.eu/data). The data is intended to be used by the schoolprog-satellite repository.
 More in particular, the data is to be used in conjunction with the "kolcykeln" notebook.
 
 # Structure

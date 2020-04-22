@@ -20,4 +20,4 @@ Under the following terms:
 
 The licensor cannot revoke these freedoms as long as you follow the licence terms.
 
-* Copyright © 2019-2020 ICOS ERIC
+Copyright © 2019-2020 ICOS ERIC

@@ -4,7 +4,7 @@ This repository contains open data, extracted from [ICOS Carbon Portal](https://
 More in particular, the data is to be used in conjunction with the "kolcykeln" notebook.
 
 # Datafile INFO
-The datafile includes information regarding atmospheric CO2 concentration measured at Hyltemossa ICOS station in southern Sweden. The original file has been processed to include information in a simpler format suitable for high school students. The time extent of the measured data is 2017 - 2019.
+The datafiles includes information regarding atmospheric CO2 concentration measured at Hyltemossa and Svartberget ICOS stations in Sweden. The original files have been processed to include information in a simpler format suitable for high school students. The time extent of the measured data is 2017 - 2019.
 
 # Licence
 ICOS data is licensed under the Creative Commons Attribution 4.0 International Public License.
@@ -19,3 +19,5 @@ Under the following terms:
     No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the licence permits
 
 The licensor cannot revoke these freedoms as long as you follow the licence terms.
+
+* Copyright © 2019-2020 ICOS ERIC

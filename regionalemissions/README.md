@@ -9,3 +9,4 @@ The files are extracted under the CreativeCommons-Erkännande4.0, according to S
 * lansrapport_skane_{CH4|CO2}.xls: data for emissions of CH4 and CO2 in skåne
 * lansrapport_sverige_CO2-equivalents.xls: data for all greenhouse gas emissions in Sweden.
 * kommuner.geojson: Polygons and names for all municipalities in sweden. Extracted data from https://www.lantmateriet.se/sv/Kartor-och-geografisk-information/geodataprodukter/produktlista/sverigekartor/
+* be0101_tabha1_2018.xlsx: Population data för municipalities in sweden. Can be directly downloaded from SCB at https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning/befolkningens-sammansattning/befolkningsstatistik/pong/tabell-och-diagram/kvartals--och-halvarsstatistik--kommun-lan-och-riket/forsta-halvaret-2018/
